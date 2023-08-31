@@ -5,10 +5,13 @@ Qual é o objetivo do sistema?
 Desenvolver o sistema por meio de um website com o objetivo de aprimorar a eficiência
 operacional, aprimorar a experiência do cliente e oferecer uma solução conveniente para a
 gestão da demanda e utilização desses espaços compartilhados.
+
 Qual é o público-alvo?
+
 • Profissionais independentes;
 • Startups;
 • Pequenas empresas que buscam um ambiente colaborativo
+
 Quais são as necessidades dos clientes?
 Com base no estudo das concorrentes mencionadas, apresentamos as necessidades a seguir:
 • Sistema de Gerenciamento de membros: O cliente necessita de um sistema para
@@ -21,10 +24,12 @@ espaço, por meio de um sistema de controle de acesso seguro;
 informações do serviço pelo qual adquiriu;
 • Comunicação interna: Comunicação interna entre os clientes e a administração do
 coworking para atualizações e oportunidades de comunicação.
+
 Mapa mental da Solução Web
 ![mapa mental](https://github.com/amandarams/SENAC-PWNB-1140919939-AMANDA/assets/124388769/bb9f12b4-933b-4c37-bdb4-685036ba2ddd)
 
 Página Inicial:
+
 • Mapa e descrição do espaço: Visão Geral do sistema Coworking e os seus
 benefícios de utilizar o ambiente de acordo com os tipos de sala que o cliente
 necessita;
@@ -33,7 +38,9 @@ uma imagem dividida em três partes, informando o plano Confort, Master e
 Premium);
 • Contato: E-mail e contato telefônico destacado no site e horário de
 atendimento.
+
 Quem somos:
+
 • Sobre a empresa: Missão, visão e valores;
 • Estrutura: Localização dos espaços, horário de funcionamento etc.;
 • Formulário de contato: Para potenciais interessados em obter mais informações.
