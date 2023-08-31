@@ -1,7 +1,9 @@
 # SENAC-PWNB-1140919939-AMANDA
 
 Este é um projeto acadêmico para o desenvolvimento web, com foco na criação de um sistema de reserva de coworking. O objetivo principal é aplicar os conhecimentos adquiridos no desenvolvimento web
+
 Qual é o objetivo do sistema?
+
 Desenvolver o sistema por meio de um website com o objetivo de aprimorar a eficiência
 operacional, aprimorar a experiência do cliente e oferecer uma solução conveniente para a
 gestão da demanda e utilização desses espaços compartilhados.
