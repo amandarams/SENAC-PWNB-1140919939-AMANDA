@@ -65,8 +65,11 @@ solicitados;
 
 • Área de pagamento: Será onde o membro confirmará o pagamento.
 Login:
+
 • Perfil do membro onde ele terá acesso a todas as informações do cadastro e serviço
 que está utilizando;
+
 • Controle de acesso: Até quando o cliente pode acessar o sistema utilizado e as
 informações de autorizações para utilizar o espaço;
+
 • Política de segurança.
